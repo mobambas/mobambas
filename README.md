@@ -1,4 +1,4 @@
-# 👋 Hi, I'm mobambas!
+# 👋 Hi, I'm Shriyansh!
 
 Welcome to my GitHub profile! I'm a passionate developer, STEM enthusiast, and a lifelong learner. Here's a bit about me and my journey so far:
 
