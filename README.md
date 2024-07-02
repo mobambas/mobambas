@@ -1,6 +1,6 @@
-# 👋 Hi, I'm mobambas!
+# 👋 Hi, I'm Shriyansh!
 
-Welcome to my GitHub profile! I'm a passionate developer, STEM enthusiast, and lifelong learner. Here's a bit about me and my journey so far:
+Welcome to my GitHub profile! I'm a passionate developer, STEM enthusiast, high-school junior, and committed lifelong learner. Here's a bit about me and my journey so far:
 
 ![image](https://github.com/mobambas/mobambas/assets/99650602/53553092-338d-4b8a-a94e-68dcd30ae564)
 
