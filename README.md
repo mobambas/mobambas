@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer, STEM enthusiast, high-
 - 📜 **Harvard CS50x Course**: Completed.
 - 📜 **Stanford IoT Course**: Completed.
 - 📜 **Microsoft Certifications**: Multiple Associate and Azure certifications, primarily focused on multimodal generative AI.
-- 💻 Fluent in SQL, HTML, CSS, Python, JavaScript, Flutter, and Flask.
+- 💻 Fluent in SQL, HTML, CSS, Python, JavaScript. In the midst of teaching myself Flutter and Flask to deploy my innovations such that they can be conveniently accessed by users.
 - 📜 **SAT Score**: 1540 (790 Math, 750 Reading & Writing).
 
 ## 🌟 Featured Projects
