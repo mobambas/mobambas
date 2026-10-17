@@ -14,14 +14,13 @@ Welcome to my GitHub profile! I'm a passionate developer, STEM enthusiast, incom
 
 ## 🏆 Achievements
 
-- 🧠 **Chess Rating**: 1600 blitz and 1700 rapid on [lichess.org](https://lichess.org/@/shoons).
-- 🎉 **Event Coordination**: Managed and coordinated multiple school events and ceremonies.
+- 🧠 **Chess Rating**: 1820 bullet and 2100 rapid on [lichess.org](https://lichess.org/@/dubistgutgenug/perf/rapid).
 - 🥇 **National Achievements**:
   - SMKC 2022 | 26th in SG (Gold)
   - SMKC 2023 | 27th in SG (Silver)
   - SMKC 2024 | 17th in SG (Silver)
 - 🌟 **Academic Excellence**:
-  - A Levels: Further Mathematics, Mathematics, Chemistry, Physics (A*), Geography (AS: A).
+  - A Levels: Further Mathematics (A*), Mathematics (A), Chemistry (A*), Physics (A*), Geography (A*).
 
 ## 📚 Education and Certifications
 
